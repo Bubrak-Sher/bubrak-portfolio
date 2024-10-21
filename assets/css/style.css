@@ -698,7 +698,7 @@ a:hover {
 }
 .social-media a:hover {
   color: var(--color-light-gray-3);
-  background: var(--color-primary);
+  background: var(--color-primary-2);
 }
 
 .dark .social-media a {
@@ -707,7 +707,7 @@ a:hover {
 }
 .dark .social-media a:hover {
   color: var(--color-light-gray-3);
-  background: var(--color-primary);
+  background: var(--color-primary-2);
 }
 
 @media (min-width: 992px) {
@@ -881,7 +881,7 @@ a:hover {
   font-size: 2rem;
 }
 .back-to-top:hover {
-  background-color: var(--color-primary);
+  background-color: var(--color-primary-2);
   color: #ffffff;
 }
 .back-to-top.active {
@@ -914,7 +914,7 @@ a:hover {
   fill: none;
 }
 .back-to-top .progress-wrap svg.progress-circle path {
-  stroke: var(--color-primary);
+  stroke: var(--color-primary-2);
   stroke-width: 3;
   box-sizing: border-box;
   -webkit-transition: all 500ms var(--timing-transition-1);
@@ -1458,7 +1458,7 @@ form label {
 }
 .experience-item:after {
   content: "";
-  background: var(--color-primary);
+  background: var(--color-primary-2);
   width: 1rem;
   height: 4px;
   position: absolute;
@@ -2114,7 +2114,7 @@ form label {
   width: 4.5rem;
   height: 4.5rem;
   border-radius: 50%;
-  background: var(--color-primary);
+  background: var(--color-primary-2);
   color: var(--color-light-gray-3);
 }
 .ci-icon svg {
@@ -2190,7 +2190,7 @@ form label {
   line-height: 1;
   font-weight: 700;
   font-size: 11px;
-  background: var(--color-primary);
+  background: var(--color-primary-2);
   padding: 4px 7px;
 }
 .skill-progress-item .progress-bar span::before {
@@ -2200,7 +2200,7 @@ form label {
   bottom: -5px;
   width: 8px;
   height: 8px;
-  background: var(--color-primary);
+  background: var(--color-primary-2);
   clip-path: polygon(100% 0, 0 0, 100% 100%);
 }
 
